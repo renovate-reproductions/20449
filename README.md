@@ -12,3 +12,4 @@
 5. Re-run Renovate, the status check fails and it creates a PR
 6. In the PR, check "Retry/Rebase"
 7. Run Renovate multiple times, the checkbox is not cleared and it keeps force pushing
+
